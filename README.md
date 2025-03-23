@@ -1,13 +1,10 @@
-I'm Rizal and i'm full stack web / app developer currently a student.
-I focused on simplicity, clarity, and performance
-I have always been hard working and goal's focused with proven results.
+# Rizal – Full-Stack Developer  
 
-#### TECH STACK
+Building fast, simple, and scalable web & app solutions.  
 
-PHP / MYSQL / NODE JS / GO / LARAVEL / REACT / PREACT / REST API / GIT / JAVASCRIPT / TYPESCRIPT / NGINX / DOCKER
+### 🛠 Tech Stack  
+**Backend:** PHP, MySQL, Node.js, Go, Laravel  
+**Frontend:** React, Preact, JavaScript, TypeScript  
+**Tools:** REST API, Git, Nginx, Docker  
 
-##### MOTTO
-
-> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
-
-####
+> *"When your work speaks for itself, don’t interrupt."* – Henry J. Kaiser  
